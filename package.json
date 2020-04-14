@@ -154,7 +154,7 @@
     "font-awesome": "^4.7.0",
     "hterm-umdjs": "^1.1.4",
     "intl": "^1.2.5",
-    "jquery": "^3.1.1",
+    "jquery": "^3.5.0",
     "monaco-editor": "^0.8.0",
     "ng-sidebar": "^4.2.0",
     "ng2-resource-rest": "^2.0.4",
